@@ -1,0 +1,21 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.main select {
+  width: 200px;
+  padding: 5px;
+  border-color: lightgray;
+  margin-top: 50px;
+}
+
+.title {
+  color: #9422c9;
+}
+
+.message {
+  font-size: 20px;
+  margin-top: 30px;
+}
